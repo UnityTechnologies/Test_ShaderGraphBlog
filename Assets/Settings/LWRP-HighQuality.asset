@@ -14,16 +14,16 @@ MonoBehaviour:
   k_AssetVersion: 3
   m_MaxPixelLights: 4
   m_SupportsVertexLight: 0
-  m_RequireDepthTexture: 0
+  m_RequireDepthTexture: 1
   m_RequireSoftParticles: 0
-  m_RequireOpaqueTexture: 0
+  m_RequireOpaqueTexture: 1
   m_OpaqueDownsampling: 1
   m_SupportsHDR: 1
   m_MSAA: 4
   m_RenderScale: 1
   m_SupportsDynamicBatching: 1
   m_DirectionalShadowsSupported: 1
-  m_ShadowAtlasResolution: 1024
+  m_ShadowAtlasResolution: 2048
   m_ShadowDistance: 65
   m_ShadowCascades: 2
   m_Cascade2Split: 0.1
@@ -31,11 +31,17 @@ MonoBehaviour:
   m_LocalShadowsSupported: 1
   m_LocalShadowsAtlasResolution: 1024
   m_SoftShadowsSupported: 1
-  m_CustomShaderVariantStrippingSettings: 0
   m_KeepAdditionalLightVariants: 1
   m_KeepVertexLightVariants: 1
   m_KeepDirectionalShadowVariants: 1
   m_KeepLocalShadowVariants: 1
   m_KeepSoftShadowVariants: 1
   m_ResourcesAsset: {fileID: 11400000, guid: aac5a08c32552a14c89394b703f1978a, type: 2}
+  m_SavedXRConfig:
+    renderScale: 1
+    viewportScale: 1
+    useOcclusionMesh: 1
+    occlusionMaskScale: 1
+    showDeviceView: 1
+    gameViewRenderMode: 3
   m_ShadowType: 2
