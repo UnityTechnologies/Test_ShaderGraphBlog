@@ -13,6 +13,8 @@ ModelImporter:
     4300000: Capsule002Bool1
     4300002: WaterDome
     4300004: WaterDomeSmooth002
+    4300006: WaterDomeDoubleTurbo
+    4300008: WaterDomeDoubleTurboTess
   externalObjects: {}
   materials:
     importMaterials: 1
