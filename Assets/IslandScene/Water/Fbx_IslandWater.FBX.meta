@@ -15,6 +15,7 @@ ModelImporter:
     4300004: WaterDomeSmooth002
     4300006: WaterDomeDoubleTurbo
     4300008: WaterDomeDoubleTurboTess
+    4300010: WaterDomeDoubleTurboTessMore
   externalObjects: {}
   materials:
     importMaterials: 1
