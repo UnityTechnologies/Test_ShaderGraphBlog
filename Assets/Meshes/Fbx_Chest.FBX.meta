@@ -1,28 +1,15 @@
 fileFormatVersion: 2
-guid: 67752df73fecdc34a8c04a20589452b6
+guid: 07179025898144643bee934ec783bef3
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
-    2100000: Material_PalmTree
-    2100002: Material_PalmLeaf
+    2100000: Material_Chest
     2300000: //RootNode
     3300000: //RootNode
-    4300000: PalmTree001
-    4300002: PalmTree004
-    4300004: PalmTree006
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material_PalmLeaf
-    second: {fileID: 2100000, guid: f0062569917b2f94ab9b49f98eda1a9f, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material_PalmTree
-    second: {fileID: 2100000, guid: ad6d8ab963715f943852603dd53ed3a7, type: 2}
+    4300000: ChesttopBend
+  externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0
