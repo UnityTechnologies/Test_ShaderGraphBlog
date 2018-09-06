@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: Material_ClamPearl
-  m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
+  m_Shader: {fileID: 4800000, guid: 6f5e84e202f21904eaa57af3780ecc2f, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -59,6 +59,10 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
+    - Vector1_351B4F09: -5
+    - Vector1_5EE53E62: 1.96
+    - Vector1_80BF9AD7: 2
+    - Vector1_E931FC0: 0
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1
@@ -80,6 +84,10 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
+    - Color_51B51A60: {r: 0.32529366, g: 0.7501366, b: 0.8113207, a: 0}
+    - Color_689E391E: {r: 0.9150943, g: 0.9150943, b: 0.9150943, a: 0}
+    - Color_6B0481F1: {r: 0.8962264, g: 0.5368903, b: 0.8143709, a: 0}
+    - Color_B168EB7B: {r: 0.8773585, g: 0.8566661, b: 0.8566661, a: 0}
     - _Color: {r: 0.8705883, g: 0.8705883, b: 0.8705883, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
