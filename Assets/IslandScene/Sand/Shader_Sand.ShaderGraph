@@ -29,6 +29,12 @@
                 "fullName": "UnityEditor.ShaderGraph.Vector1ShaderProperty"
             },
             "JSONnodeData": "{\n    \"m_Value\": 0.5,\n    \"m_Name\": \"Fresnel Power\",\n    \"m_GeneratePropertyBlock\": true,\n    \"m_Guid\": {\n        \"m_GuidSerialized\": \"4f8d1d75-8e2c-45a0-a72a-62a676ed354d\"\n    },\n    \"m_OverrideReferenceName\": \"\",\n    \"m_FloatType\": 0,\n    \"m_RangeValues\": {\n        \"x\": 0.0,\n        \"y\": 1.0\n    }\n}"
+        },
+        {
+            "typeInfo": {
+                "fullName": "UnityEditor.ShaderGraph.BooleanShaderProperty"
+            },
+            "JSONnodeData": "{\n    \"m_Value\": false,\n    \"m_Name\": \"_______________________________________________\",\n    \"m_GeneratePropertyBlock\": true,\n    \"m_Guid\": {\n        \"m_GuidSerialized\": \"3f32ec04-65be-440c-ad23-968045670c4b\"\n    },\n    \"m_OverrideReferenceName\": \"\"\n}"
         }
     ],
     "m_GUID": {
