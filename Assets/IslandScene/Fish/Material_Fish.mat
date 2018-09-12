@@ -6,13 +6,13 @@ Material:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: Material_IslandWater
-  m_Shader: {fileID: 4800000, guid: ae0b03949aae86f478be2838ee94b0e8, type: 3}
+  m_Name: Material_Fish
+  m_Shader: {fileID: 4800000, guid: 0d63d5e9de2ca4d4c84d3e10b0ec4b0c, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
-  m_CustomRenderQueue: 3000
+  m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses: []
   m_SavedProperties:
@@ -54,46 +54,11 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - _SampleTexture2D_24F4BB82_Texture:
-        m_Texture: {fileID: 2800000, guid: 879cc6503aa3b504ca6e088cbdde86be, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
     - _SpecGlossMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - Vector1_11C8BE5D: 0.28
-    - Vector1_137DC7ED: 0
-    - Vector1_1C76134F: 0.39
-    - Vector1_2067D572: 0.5
-    - Vector1_221E0A39: 0.97
-    - Vector1_3B6C6CA7: 0.04
-    - Vector1_40E2F0ED: 0.5
-    - Vector1_4735D5E2: 0.42
-    - Vector1_5685904E: 1.464
-    - Vector1_5721F4C2: 0.63
-    - Vector1_5D17CBA2: 0.3
-    - Vector1_608CA392: 1
-    - Vector1_632F7C2E: 1.54
-    - Vector1_72D9B0C5: 1.5
-    - Vector1_730BBE62: 0.799
-    - Vector1_770B5A60: 1.67
-    - Vector1_7FD4B9D0: 1
-    - Vector1_8403193C: 1.01
-    - Vector1_8D2F509D: 1.64
-    - Vector1_95BDBEC1: 8
-    - Vector1_961065ED: 0.028
-    - Vector1_A04E5E21: 1.67
-    - Vector1_A6C44B0B: 0.25
-    - Vector1_B4A117B7: 0.36
-    - Vector1_B9797993: 0.5
-    - Vector1_C800E0A4: 0.48
-    - Vector1_E58F6327: 1
-    - Vector1_F1BE6F9F: 0.378
-    - Vector1_F44D25A0: 0.411
-    - Vector1_F68B8AAF: 1
-    - Vector1_F9DF03AF: 35
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1
@@ -115,13 +80,6 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
-    - Color_120283E2: {r: 0.21960783, g: 0.35294116, b: 0.50980395, a: 1}
-    - Color_3974F997: {r: 0.14509794, g: 0.9490196, b: 1, a: 1}
-    - Vector2_1000B2F1: {r: 0, g: 1, b: 0, a: 0}
-    - Vector2_113ECD47: {r: 0.5, g: 0.5, b: 0, a: 0}
-    - Vector2_7922229F: {r: 0.38, g: 1, b: 0, a: 0}
-    - Vector2_BE5D86FE: {r: 0.1, g: 0.1, b: 0, a: 0}
-    - Vector2_FA95DCD5: {r: 0.59, g: 0.55, b: 0, a: 0}
     - _Color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
