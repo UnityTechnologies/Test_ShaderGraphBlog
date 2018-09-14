@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: Material_BasicFish
-  m_Shader: {fileID: 4800000, guid: 2cddcb7915cc5134db9617333cd5d279, type: 3}
-  m_ShaderKeywords: _NORMALMAP
+  m_Shader: {fileID: 4800000, guid: 0d63d5e9de2ca4d4c84d3e10b0ec4b0c, type: 3}
+  m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -31,9 +31,25 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
+    - Vector1_29ADD563: 0.06
     - Vector1_4466C907: 0
+    - Vector1_47677611: 0.03
     - Vector1_58A86C37: 2.9
     - Vector1_6470DD0F: 0
+    - Vector1_67434760: 0
     - Vector1_803D3F36: 0.1
+    - Vector1_9F48B413: 1.45
+    - Vector1_C01861B7: 12.6
+    - Vector1_C62E7565: 5
+    - Vector1_CBD19B6D: 0
+    - Vector1_E0D0D54F: -2.3
     - Vector1_F0AB73AA: 5.28
-    m_Colors: []
+    m_Colors:
+    - Color_4F76334: {r: 1, g: 1, b: 1, a: 0}
+    - Color_7956FFC3: {r: 0.75471693, g: 0.75471693, b: 0.75471693, a: 0}
+    - Color_9F8D9C85: {r: 0.9056604, g: 0.02506206, b: 0, a: 0}
+    - Color_D29ED1CF: {r: 0.9056604, g: 0.61263126, b: 0.1751512, a: 0}
+    - Vector2_51C5CA6A: {r: -0.3, g: 0.104, b: 0, a: 0}
+    - Vector2_C62675D8: {r: 0.36, g: 0, b: 0, a: 0}
+    - Vector2_CD1A50CC: {r: 1.13, g: 0.97, b: 0, a: 0}
+    - Vector2_DDB56B75: {r: 0, g: 0, b: 0, a: 0}

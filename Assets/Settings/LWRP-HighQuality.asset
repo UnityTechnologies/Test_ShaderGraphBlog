@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Name: LWRP-HighQuality
   m_EditorClassIdentifier: 
   k_AssetVersion: 3
-  m_MaxPixelLights: 4
+  m_MaxPixelLights: 8
   m_SupportsVertexLight: 0
   m_RequireDepthTexture: 1
   m_RequireSoftParticles: 0

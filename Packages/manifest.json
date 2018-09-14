@@ -4,6 +4,7 @@
     "com.unity.analytics": "2.0.16",
     "com.unity.cinemachine": "2.2.7",
     "com.unity.package-manager-ui": "1.9.11",
+    "com.unity.postprocessing": "2.0.12-preview",
     "com.unity.purchasing": "2.0.3",
     "com.unity.render-pipelines.lightweight": "3.0.0-preview",
     "com.unity.shadergraph": "2.0.8-preview",
