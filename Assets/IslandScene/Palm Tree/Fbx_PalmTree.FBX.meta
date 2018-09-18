@@ -7,11 +7,13 @@ ModelImporter:
     400000: //RootNode
     2100000: Material_PalmTree
     2100002: Material_PalmLeaf
+    2100004: No Name
     2300000: //RootNode
     3300000: //RootNode
     4300000: PalmTree001
     4300002: PalmTree004
     4300004: PalmTree006
+    4300006: WaterDomeDoubleTurboTessMore
   externalObjects:
   - first:
       type: UnityEngine:Material
