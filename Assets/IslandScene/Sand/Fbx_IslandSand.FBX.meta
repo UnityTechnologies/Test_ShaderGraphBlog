@@ -10,6 +10,9 @@ ModelImporter:
     3300000: //RootNode
     4300000: SandDome003
     4300002: WaterDomeDoubleTurboTessMore
+    4300004: WaterDomeCopy003
+    4300006: WaterDomeCopy004
+    4300008: WaterDomeCopy005
   externalObjects: {}
   materials:
     importMaterials: 1
