@@ -1,0 +1,6 @@
+﻿{
+	"name": "Unity.Recorder.Samples",
+	"references": [
+			"Unity.Recorder.Editor"
+	]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Unity.Recorder.Editor",
+    "references": [
+      "Unity.Recorder"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

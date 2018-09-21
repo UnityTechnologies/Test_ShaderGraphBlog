@@ -1,0 +1,135 @@
+﻿#recorderIcon {
+    width : 50;
+    height : 50;
+    margin-left : 5;
+    margin-right : 20;
+    slice-top : 0;
+    slice-bottom : 0;
+    slice-left : 0;
+    slice-right : 0;
+    padding-top : 0;
+    padding-left : 0;
+    padding-bottom : 0;
+    padding-right : 0;
+    cursor : link;
+}
+
+.RecorderListHeader {
+    margin-top : 0;
+    margin-left : 0;
+    margin-right : 0;
+    margin-bottom: 0;
+    height: 30;
+    align-self: center;
+    border-left-width: 0;
+    border-top-width: 0;
+    border-right-width: 0;
+    border-bottom-width: 1;
+}
+
+#recordOptions {
+    max-height: 16;
+    margin-bottom: 3;
+}
+
+#addRecordersButton > Label {
+    padding-left: 10;
+    text-alignment: middle-left;
+    font-size: 12;   
+}
+
+#recorderListPreset {
+    width: 20;
+    justify-content: center;
+}
+
+#recorderListPreset > Image {
+    align-self: center;
+    slice-top : 0;
+    slice-bottom : 0;
+    slice-left : 0;
+    slice-right : 0;
+    padding-top : 0;
+    padding-left : 0;
+    padding-bottom : 0;
+    padding-right : 0;
+}
+
+#presetButton {
+    width: 15;
+    height: 14;
+    margin-right: 10;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.StandardPanel {
+    margin-top : 15;
+    padding-left : 20;
+    padding-right : 20;
+    border-bottom-width:2;
+}
+
+RecorderItem {
+    margin-top : 4;
+    padding-left : 5;
+    padding-right : 5;
+    padding-top : 5;
+    padding-bottom : 5;
+    
+    border-left-width:1;
+    border-top-width:1;
+    border-right-width:1;
+    border-bottom-width:1;
+}
+
+RecorderItem.selected {
+    border-left-width:1;
+    border-right-width:1;
+}
+
+.RecorderItemIcon {
+    width : 16;
+    height : 16;
+    margin-top : 2;
+    margin-left : 4;
+    margin-right : 4;
+}
+
+RecorderItem.hasErrors > .RecorderItemIcon {
+    width : 16;
+    height : 16;
+}
+
+PanelSplitter {
+    border-left-width:1;
+    border-top-width:0;
+    border-right-width:1;
+    border-bottom-width:0;
+}
+
+#statusBar {
+    padding-top: 5;
+    padding-bottom: 5;
+    padding-left: 5;
+    padding-right: 5;
+}
+
+#recordButton {
+    margin-left: 0;
+    margin-right: 0;
+    cursor : link;
+}
+
+#recordersPanel {
+    margin-top: 0;
+    padding-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+#recorderSettings {
+    margin-left: 20;
+    margin-right: 30;
+}
+
