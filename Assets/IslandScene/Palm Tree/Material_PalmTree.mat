@@ -80,6 +80,8 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
+    - Color_BAAE0DBC: {r: 0.39622638, g: 0.27379888, b: 0.07289069, a: 0}
+    - Color_C03BF767: {r: 0.745283, g: 0.5578905, b: 0.24959946, a: 0}
     - _Color: {r: 0.8235295, g: 0.18431373, b: 0.03529412, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}

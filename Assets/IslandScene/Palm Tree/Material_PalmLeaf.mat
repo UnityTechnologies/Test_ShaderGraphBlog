@@ -84,8 +84,8 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
-    - Color_2D8D128D: {r: 0, g: 0.4339623, b: 0, a: 0}
-    - Color_CE97F0F: {r: 0.40719476, g: 1, b: 0.13679248, a: 0}
+    - Color_2D8D128D: {r: 0, g: 0.43396226, b: 0, a: 0}
+    - Color_CE97F0F: {r: 0.40719473, g: 1, b: 0.13679245, a: 0}
     - Vector2_F70DCD58: {r: -2.07, g: -0.44, b: 0, a: 0}
     - _Color: {r: 0.11764707, g: 0.44705886, b: 0.043137256, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 0}
