@@ -2,7 +2,7 @@
 # Test_ShaderGraphBlog
 This scene was developed to demonstrate the priciples explained in my supporting blog post ["Art That Moves: Creating Animated Materials with Shader Graph"](#). I would encourage you to read the blog post first! 
 
-[My Twitter](https://twitter.com/John_O_Really)
+[Follow me on Twitter: @John_O_Really](https://twitter.com/John_O_Really)
 
 ## Thanks
 * Thank you to [Andy Touch](https://twitter.com/andytouch) for additional shaders and guidance. 
