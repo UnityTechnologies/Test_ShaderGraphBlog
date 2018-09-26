@@ -2,9 +2,12 @@
 # Test_ShaderGraphBlog
 This scene was developed to demonstrate the priciples explained in my supporting blog post ["Art That Moves: Creating Animated Materials with Shader Graph"](#). I would encourage you to read the blog post first! 
 
+[My Twitter](https://twitter.com/John_O_Really)
+
 ## Thanks
-* Thank you to Andy Touch for additional shaders and guidance. 
-* Thank you to Keijiro Takahashi for the Unity logo Shader Graph. 
+* Thank you to [Andy Touch](https://twitter.com/andytouch) for additional shaders and guidance. 
+* Thank you to [Keijiro Takahashi](https://twitter.com/_kzr) for the Unity logo Shader Graph. 
+* Thank you to [Bruce Slater](https://twitter.com/RadForgeBruce) for helping get the water shader off the ground. 
 
 
 ## License 
