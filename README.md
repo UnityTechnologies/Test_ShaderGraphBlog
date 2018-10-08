@@ -1,6 +1,6 @@
 ![Scene Preview](https://i.imgur.com/JVtjOhJ.jpg)
 # Test_ShaderGraphBlog
-This scene was developed to demonstrate the priciples explained in my supporting blog post ["Art That Moves: Creating Animated Materials with Shader Graph"](#). I would encourage you to read the blog post first! 
+This scene was developed to demonstrate the priciples explained in my supporting blog post ["Art That Moves: Creating Animated Materials with Shader Graph"](https://blogs.unity3d.com/2018/10/05/art-that-moves-creating-animated-materials-with-shader-graph/). I would encourage you to read the blog post first! 
 
 [Follow me on Twitter: @John_O_Really](https://twitter.com/John_O_Really)
 
